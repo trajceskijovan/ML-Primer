@@ -1,6 +1,6 @@
 # ML-Primer
 
-I have provided Jupiter Notebooks illustrating the most frequently used algorithms:
+I have provided 6 Jupiter Notebooks illustrating the most frequently used algorithms:
 
 1. Linear Regression
 2. Logistic Regression
@@ -9,5 +9,4 @@ I have provided Jupiter Notebooks illustrating the most frequently used algorith
 5. KMeans
 6. Naive Bayes
 7. Support Vector Machines (SVM)
-
 
